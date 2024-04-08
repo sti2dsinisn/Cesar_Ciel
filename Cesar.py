@@ -1,4 +1,4 @@
-Alphabet="_ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+Alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 def codage_cesar(a,message):
    
