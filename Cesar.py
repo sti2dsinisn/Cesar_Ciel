@@ -13,7 +13,7 @@ def codage_cesar(a,message):
     return code                       
 
                                           
-print(codage_cesar(1,"BONJOUR"))
+print(codage_cesar(1,"CIEL"))
 
 def decodage_cesar(a,message):
    
