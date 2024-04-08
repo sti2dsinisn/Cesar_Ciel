@@ -5,7 +5,7 @@ import sv_ttk
 
 root = tkinter.Tk()
 
-button = ttk.Button(root, text="Click me!")
+button = ttk.Button(root, text="Clique-moi ")
 button.pack()
 
 # This is where the magic happens
