@@ -16,7 +16,7 @@ def codage_cesar(a,message):
 print(codage_cesar(1,"CIEL"))
 
 def decodage_cesar(a,message):
-   
+   #Fonction qui décode à partir d'une clé
     code=""                                 
     for caractere in message:             
         if caractere in Alphabet:         
