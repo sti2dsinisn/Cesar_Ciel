@@ -1,7 +1,7 @@
 Alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 def codage_cesar(a,message):
-   
+   #Fonction qui code en César à partir d'une clé
     code=""                                 
     for caractere in message:             
         if caractere in Alphabet:         
